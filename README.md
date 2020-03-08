@@ -1,2 +1,3 @@
 # test
-just a test
+just a test :
+my first github repository
